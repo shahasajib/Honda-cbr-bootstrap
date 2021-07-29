@@ -1,0 +1,18 @@
+
+.honda-color-info{
+    color: #E76F51;
+}
+.honda-color-info2 {
+    background-color: #E77C40;
+    color: white;
+    width: 168px;
+    height: 44px;
+}
+
+#honda-background-info{
+    background-color:#264653 ;
+}
+
+.honda-img{
+    filter:grayscale(100%);
+}
